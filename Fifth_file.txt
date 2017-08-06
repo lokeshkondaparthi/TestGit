@@ -21,20 +21,3 @@ public void master(4){
 public void master(5){
 
 }
-
-public void master(6){
-
-}
-
-public void master(7){
-
-}
-public void master(8){
-
-}
-public void master(9){
-
-}
-public void master(10){
-
-}

@@ -38,38 +38,3 @@ public void master(9){
 public void master(10){
 
 }
-public void branch(1){
-
-}
-
-public void branch(2){
-
-}
-
-public void branch(3){
-
-}
-public void branch(4){
-
-}
-public void branch(5){
-
-}
-public void branch(6){
-
-}
-public void branch(7){
-
-}
-public void branch(8){
-
-}
-public void branch(9){
-
-}
-public void branch(10){
-
-}
-public void branch(11){
-
-}

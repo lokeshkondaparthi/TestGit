@@ -28,3 +28,15 @@ public void master(String master){
 public void master(String master){
 
 }
+public void master(String master){
+
+}
+public void master(String master){
+
+}
+public void master(String master){
+
+}
+public void master(String master){
+
+}

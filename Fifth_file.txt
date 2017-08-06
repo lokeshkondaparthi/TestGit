@@ -1,17 +1,24 @@
-Master master master mastere master master master master master master master
+public void branch(Branch branch){
 
- Master master master mastere master master master master master master master
+}
+public void branch(Branch branch){
 
- Master master master mastere master master master master master master master
+}
+public void branch(Branch branch){
 
- Master master master mastere master master master master master master master
+}
+public void branch(Branch branch){
 
- Master master master mastere master master master master master master master
+}
+public void branch(Branch branch){
 
- Master master master mastere master master master master master master master
+}
+public void branch(Branch branch){
 
- Master master master mastere master master master master master master master
+}
+public void branch(Branch branch){
 
- Master master master mastere master master master master master master master
+}
+public void branch(Branch branch){
 
- Master master master mastere master master master master master master master
+}

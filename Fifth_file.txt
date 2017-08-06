@@ -1,23 +1,30 @@
-public void master(1){
+public void master(String master){
 
 }
-
-public void master(1){
-
-}
-
-public void master(2){
+public void master(String master){
 
 }
-
-public void master(3){
-
-}
-
-public void master(4){
+public void master(String master){
 
 }
+public void master(String master){
 
-public void master(5){
+}
+public void master(String master){
+
+}
+public void master(String master){
+
+}
+public void master(String master){
+
+}
+public void master(String master){
+
+}
+public void master(String master){
+
+}
+public void master(String master){
 
 }

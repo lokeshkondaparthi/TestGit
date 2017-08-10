@@ -1,24 +1,16 @@
-public void branch(Branch branch){
+/* make the API call */
+Bundle params  = new Bundle();
+bundle.putExtra("fields","images");
 
+new GraphRequest(
+AccessToken.getCurrentAccessToken(),
+"/"+"USER ID"+"/photos",
+params,
+HttpMethod.GET,
+new GraphRequest.Callback() {
+    public void onCompleted(GraphResponse response) {
+        /* handle the result */
+         /* You can parse this response using Json  */
+    }
 }
-public void branch(Branch branch){
-
-}
-public void branch(Branch branch){
-
-}
-public void branch(Branch branch){
-
-}
-public void branch(Branch branch){
-
-}
-public void branch(Branch branch){
-
-}
-public void branch(Branch branch){
-
-}
-public void branch(Branch branch){
-
-}
+).executeAsync();
